@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Organizer</string>
+    <string name="tasks_sidebar">Задачи</string>
+    <string name="archive_sidebar">Архив</string>
+    <string name="upload">Выгрузить</string>
+    <string name="add_task">Добавить</string>
+    <string name="no_data_available">Нет задач</string>
+    <string name="task_title">Название</string>
+    <string name="task_save">Сохранить</string>
+    <string name="task_edit">Редактировать</string>
+    <string name="task_complete">Выполнить</string>
+    <string name="task_title_hint">Введите название</string>
+    <string name="task_deadline_hint">Выберите срок</string>
+    <string name="task_notification_hint">Выберите время напоминания</string>
+</resources>

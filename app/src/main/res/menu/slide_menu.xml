@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tasks"
+            android:icon="@drawable/slide_menu_tasks"
+            android:title="@string/tasks_sidebar" />
+        <item
+            android:id="@+id/nav_archive"
+            android:icon="@drawable/slide_menu_archive"
+            android:title="@string/archive_sidebar" />
+    </group>
+
+</menu>
